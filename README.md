@@ -1,2 +1,2 @@
 # AI-Computer-Systems-e-Sensors
-Repositório para armazenar meus códigos de arduíno 
+Repositório para armazenar meus códigos de esp
